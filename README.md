@@ -21,6 +21,8 @@ That's why we are hiring you. I wrote code that will create a table dynamically 
 
 * I Used a date form in my HTML document and wrote JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
+![](static/images/Evidence2.PNG)
+
 ### Level 2: Multiple Search Categories (Optional)
 
 * Once I Complete all of Level 1 criteria.
@@ -33,6 +35,7 @@ That's why we are hiring you. I wrote code that will create a table dynamically 
   4. `country`
   5. `shape`
 
+![](static/images/Evidence1.PNG)
 - - -
 
 ### Dataset
